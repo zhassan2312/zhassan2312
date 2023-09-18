@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zohaib Hassan
-- 👀 I’m interested Web Designing
-- 🌱 I’m currently mastering web designing skill
-- 💞️ I’m looking to collaborate on Web designing
+- 👀 I’m interested in UX Designing
+- 🌱 I’m currently mastering UX designing skill
+- 💞️ I’m looking to collaborate on UX designing
 - 📫 CTA: zhassan2312@gmail.com
 
 <!---
